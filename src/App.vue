@@ -166,6 +166,11 @@ main {
   box-shadow: 0 0 25px rgba(0, 0, 0, 1);
 }
 
+.weather-wrap {
+  max-width: 400px;
+  margin: auto;
+}
+
 .location-box .location {
   color: white;
   font-size: 32px;
@@ -191,7 +196,7 @@ main {
   display: inline-block;
   padding: 10px 25px;
   color: #ffffff;
-  font-size: 100px;
+  font-size: 70px;
   font-weight: 900;
 
   text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
@@ -216,7 +221,7 @@ main {
   display: inline-block;
   padding: 10px 25px;
   color: #ffffff;
-  font-size: 130px;
+  font-size: 50px;
   font-weight: 900;
 
   text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
